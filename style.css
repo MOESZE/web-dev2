@@ -1,0 +1,71 @@
+.body{
+
+    background: #f5ce5a;
+
+    padding: 0 10px;
+
+  }
+
+  .wrapper{
+
+    max-width: 600px;
+
+    width: 100%;
+
+    background: #fff;
+
+    margin: 50px auto;
+
+    box-shadow: 2px 2px 4px rgba(75, 52, 52, 0.125);
+
+    padding: 30px;
+
+  }
+
+  
+
+  .wrapper .title{
+
+    font-size: 24px;
+
+    font-weight: 700;
+
+    margin-bottom: 25px;
+
+    color: #fec107;
+
+    text-transform: uppercase;
+
+    text-align: center;
+
+  }
+
+  label{
+
+      margin-left: 4px;
+
+      margin-right: 4px;
+
+      width: 8rem;
+
+  }
+
+  
+
+  footer{
+
+      margin-top: 500px;
+
+      
+
+        text-align: center;
+
+        padding: 3px;
+
+        background-color: DarkSalmon;
+
+        color: Red;
+
+      
+
+  }
